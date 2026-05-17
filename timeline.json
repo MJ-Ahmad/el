@@ -1,0 +1,45 @@
+{
+  "project": "English Learning Roadmap",
+  "stages": [
+    {
+      "stage": "Beginner",
+      "classes": [
+        { "class": "Class 1", "focus": "Greetings & Politeness", "status": "Completed" },
+        { "class": "Class 2", "focus": "Daily Needs & Small Conversations", "status": "Completed" },
+        { "class": "Class 3", "focus": "Time, Place & Feelings", "status": "Completed" },
+        { "class": "Class 4", "focus": "Teacher–Student & Practice", "status": "Completed" },
+        { "class": "Class 5", "focus": "Storytelling & Presentation", "status": "Completed" }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "classes": [
+        { "class": "Class 6", "focus": "Weather & Daily Routines", "status": "Pending" },
+        { "class": "Class 7", "focus": "Small Talk & Group Discussion", "status": "Pending" },
+        { "class": "Class 8", "focus": "Mini Presentation", "status": "Pending" },
+        { "class": "Class 9", "focus": "Roleplay Activities", "status": "Pending" },
+        { "class": "Class 10", "focus": "Conversation Expansion", "status": "Pending" }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "classes": [
+        { "class": "Class 11", "focus": "Debate Practice", "status": "Pending" },
+        { "class": "Class 12", "focus": "Opinion Sharing", "status": "Pending" },
+        { "class": "Class 13", "focus": "Detailed Storytelling", "status": "Pending" },
+        { "class": "Class 14", "focus": "Public Speaking", "status": "Pending" },
+        { "class": "Class 15", "focus": "Interview Practice", "status": "Pending" }
+      ]
+    },
+    {
+      "stage": "Expert",
+      "classes": [
+        { "class": "Class 16", "focus": "Professional Emails", "status": "Pending" },
+        { "class": "Class 17", "focus": "Formal Presentations", "status": "Pending" },
+        { "class": "Class 18", "focus": "Cultural Expressions", "status": "Pending" },
+        { "class": "Class 19", "focus": "Fluency Drills", "status": "Pending" },
+        { "class": "Class 20", "focus": "Advanced Discussions", "status": "Pending" }
+      ]
+    }
+  ]
+}

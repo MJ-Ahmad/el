@@ -1,0 +1,57 @@
+site_name: English Learning Roadmap
+site_description: Step-by-step English learning journey from Beginner to Expert
+site_author: MJ Ahmad
+
+nav:
+  - Home: index.md
+  - Beginner:
+      - Class 1: beginner/class1_greetings.md
+      - Class 2: beginner/class2_daily_needs.md
+      - Class 3: beginner/class3_time_place_feelings.md
+      - Class 4: beginner/class4_teacher_student.md
+      - Class 5: beginner/class5_storytelling.md
+      - Summary: beginner/summary.md
+  - Intermediate:
+      - Class 6: intermediate/class6_weather_routines.md
+      - Class 7: intermediate/class7_small_talk.md
+      - Class 8: intermediate/class8_mini_presentation.md
+      - Class 9: intermediate/class9_roleplay.md
+      - Class 10: intermediate/class10_conversation_expansion.md
+      - Summary: intermediate/summary.md
+  - Advanced:
+      - Class 11: advanced/class11_debate.md
+      - Class 12: advanced/class12_opinion_sharing.md
+      - Class 13: advanced/class13_detailed_storytelling.md
+      - Class 14: advanced/class14_public_speaking.md
+      - Class 15: advanced/class15_interview.md
+      - Summary: advanced/summary.md
+  - Expert:
+      - Class 16: expert/class16_professional_emails.md
+      - Class 17: expert/class17_formal_presentations.md
+      - Class 18: expert/class18_cultural_expressions.md
+      - Class 19: expert/class19_fluency_drills.md
+      - Class 20: expert/class20_advanced_discussions.md
+      - Summary: expert/summary.md
+  - Resources:
+      - Flashcards: resources/flashcards.md
+      - Games: resources/games.md
+      - Progress Tracker: resources/tracker.md
+      - Timeline: resources/timeline.json
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.tabs
+    - navigation.expand
+    - content.code.copy
+    - search.suggest
+    - search.highlight
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - footnotes
+  - meta
+  - toc:
+      permalink: true
